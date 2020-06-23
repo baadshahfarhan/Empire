@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>BLAH__c</fullName>
+    <complianceGroup>HIPAA</complianceGroup>
+    <deprecated>false</deprecated>
+    <description>SLDAKNFLJSD aksjdfb esf3</description>
+    <externalId>false</externalId>
+    <inlineHelpText>SDlkfnLDNF we3</inlineHelpText>
+    <label>BLAH12334</label>
+    <length>20000</length>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>6</visibleLines>
+</CustomField>

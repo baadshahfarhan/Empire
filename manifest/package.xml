@@ -3,6 +3,7 @@
     <version>47.0</version>
     <types>
         <members>Account.Active__c</members>
+        <members>Hakuna_Matata__c.BLAH__c</members>
         <name>CustomField</name>
     </types>
     <types>
